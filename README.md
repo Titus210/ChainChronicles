@@ -1,5 +1,10 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+# Chain Chronicles: Building Collaborative Blogs with MongoDB, Next.js, TypeScript, and Tailwind CSS
+
+Choin chronicles is an onlinr blog application build with mongo db, next, typescript , tailwind. 
+It is a collaborative environment where developers are welcomed to develop
+
+***
 ## Getting Started
 
 First, run the development server:
